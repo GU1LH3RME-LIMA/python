@@ -1,2 +1,1 @@
-# python
-some codes written in python 
+some exercises resolved  
